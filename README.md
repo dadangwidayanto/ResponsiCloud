@@ -96,7 +96,7 @@ Isikan tulisan dibawah pada folder tersebut
 
   Disini kita memasukkan username dan pasword dari docker hub yang sudah kita buat.
 
-23. 23.	Set tag untuk push ke docker hub dengan perintah 
+23.         Set tag untuk push ke docker hub dengan perintah 
 
               docker tag 7ce8ae9c4f88 dadangwidayanto/dadangwidyt:responsicloud
 
